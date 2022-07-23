@@ -1,9 +1,0 @@
-{
-    "username": "username1",
-    "password": "changemeNOW"
-}
-
-
-
-"refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1ODE1NDQ1MiwianRpIjoiYmFkNjQzYTkyOGJlNGI2MDk5OGFjNjM5YzBmMmM1NWYiLCJ1c2VyX2lkIjoxfQ.M0Zjx6KHHciYL6Po6zZGd_Bc9k77F4QqdWvZ-iLbE7c",
-    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjU4OTMyMDUyLCJqdGkiOiIyNTZjMmEwNTRjNWI0NjE4YWU0Nzg4YjAzMjc0NmZmNiIsInVzZXJfaWQiOjF9.vN1z13KnH6NQFJmCnAVjwmEQLHb6LK-4m661UzpHgeA"
