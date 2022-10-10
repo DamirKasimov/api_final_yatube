@@ -33,3 +33,16 @@ python manage.py runserver
 ```
 
 ## Примеры запросов
+
+```
+POST /api/v1/posts/
+BODY
+{
+    "text": "string",
+    "image": "string",
+    "group": 0
+}
+```
+
+
+
