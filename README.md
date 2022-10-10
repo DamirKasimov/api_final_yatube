@@ -34,6 +34,7 @@ python manage.py runserver
 
 ## Примеры запросов
 
+Создание нового поста:
 ```
 POST /api/v1/posts/
 BODY
@@ -44,5 +45,7 @@ BODY
 }
 ```
 
-
-
+Получение поста по id:
+```
+GET /api/v1/posts/{id}/
+```
